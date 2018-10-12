@@ -35,6 +35,8 @@ If you've used Python packages before:
 pip install addfips
 # or
 pip install --user addfips
+# or to download this fork
+pip install git+https://github.com/blt2589/addfips.git
 ```
 
 If you haven't used Python packages before, [get pip](http://pip.readthedocs.org/en/stable/installing/), then come back.
